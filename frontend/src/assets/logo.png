@@ -1,0 +1,8 @@
+<img
+
+  src={logo}
+
+  alt="logo"
+
+  className="w-16 h-16 object-contain"
+/>
