@@ -220,3 +220,4 @@ Social Media Clone is a complete social networking platform that combines commun
 With features such as messaging, notifications, profile management, AI assistance, search functionality, content sharing, and administrative control, the platform delivers a comprehensive social media experience while maintaining simplicity and usability.
 
 The project demonstrates the importance of modern social networking systems in enhancing communication, building online communities, and improving digital interaction experiences.
+update 
